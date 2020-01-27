@@ -1,5 +1,7 @@
 # Dice-Game
 
+SEE LIVE DEMO :  https://mahadi-devo.github.io/Dice-Game/
+
 /*
 
 GAME RULES:
